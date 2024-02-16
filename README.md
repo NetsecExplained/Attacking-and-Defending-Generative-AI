@@ -31,6 +31,8 @@ Reference notes for Attacking and Defending Generative AI presentation
 * [Netsec Explained - ChatGPT Your Red Team Ally](https://github.com/NetsecExplained/chatgpt-your-red-team-ally)
 * [Rez0 - Prompt Injection Primer for Engineers (PIPE)](http://aivillage.org/large%20language%20models/threat-modeling-llm/)
 * [LLM Hackers Handbook](https://doublespeak.chat/#/handbook)
+* [Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
+* [Kai Greshake - (In)security and Misalignment: A modern security crisis](https://www.youtube.com/watch?v=07rnNHnb9rw)
 
 ## LLM Attacks in the Wild
 * [Chevy Dealership](https://www.threads.net/@spencerlindsay/post/C08QLzUOFUc/?igshid=NTYzOWQzNmJjMA%3D%3D)

@@ -34,6 +34,7 @@ Reference notes for Attacking and Defending Generative AI presentation
 * [Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
 * [Kai Greshake - (In)security and Misalignment: A modern security crisis](https://www.youtube.com/watch?v=07rnNHnb9rw)
 * [Johan Daniel - Impact of Non-Standard Unicode Characters on Security and Comprehension in Large Language Models](https://arxiv.org/abs/2405.14490)
+* [Jailbreaks for all Flagship AI Models](https://github.com/elder-plinius/L1B3RT45/)
 
 ## LLM Attacks in the Wild
 * [Chevy Dealership](https://www.threads.net/@spencerlindsay/post/C08QLzUOFUc/?igshid=NTYzOWQzNmJjMA%3D%3D)

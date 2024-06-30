@@ -20,6 +20,7 @@ Reference notes for Attacking and Defending Generative AI presentation
 * [Dropbox - LLM security](https://github.com/dropbox/llm-security)
 * [Garak vulnerability scanner](https://github.com/leondz/garak)
 * [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)
+* [Python Risk Identification Tool for generative AI (PyRIT)](https://github.com/Azure/PyRIT)
 
 ## LLM Attack Technique Papers
 * [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/)
@@ -35,6 +36,7 @@ Reference notes for Attacking and Defending Generative AI presentation
 * [Kai Greshake - (In)security and Misalignment: A modern security crisis](https://www.youtube.com/watch?v=07rnNHnb9rw)
 * [Johan Daniel - Impact of Non-Standard Unicode Characters on Security and Comprehension in Large Language Models](https://arxiv.org/abs/2405.14490)
 * [Jailbreaks for all Flagship AI Models](https://github.com/elder-plinius/L1B3RT45/)
+* [Skeleton Key Jailbreak](https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/)
 
 ## LLM Attacks in the Wild
 * [Chevy Dealership](https://www.threads.net/@spencerlindsay/post/C08QLzUOFUc/?igshid=NTYzOWQzNmJjMA%3D%3D)

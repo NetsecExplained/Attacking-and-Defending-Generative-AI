@@ -8,6 +8,7 @@ Reference notes for Attacking and Defending Generative AI presentation
 * [LLM Security](https://twitter.com/llm_sec)
 * [Leon Derczynski](https://twitter.com/LeonDerczynski)
 * [Simon Willison](https://twitter.com/simonw)
+* [Gavin Klondike](https://x.com/GTKlondike)
 
 ## LLM Security Frameworks
 * [OWASP Top 10 for LLM Applications](https://llmtop10.com/)
@@ -38,6 +39,7 @@ Reference notes for Attacking and Defending Generative AI presentation
 * [Johan Daniel - Impact of Non-Standard Unicode Characters on Security and Comprehension in Large Language Models](https://arxiv.org/abs/2405.14490)
 * [Jailbreaks for all Flagship AI Models](https://github.com/elder-plinius/L1B3RT45/)
 * [Skeleton Key Jailbreak](https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/)
+* [Offensive AI Compilation - GitHub](https://github.com/jiep/offensive-ai-compilation)
 
 
 ## LLM Attacks in the Wild

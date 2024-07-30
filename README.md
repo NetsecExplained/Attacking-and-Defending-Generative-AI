@@ -9,6 +9,7 @@ Reference notes for Attacking and Defending Generative AI presentation
 * [Leon Derczynski](https://twitter.com/LeonDerczynski)
 * [Simon Willison](https://twitter.com/simonw)
 * [Gavin Klondike](https://x.com/GTKlondike)
+* [Pliny the Prompter](https://x.com/elder_plinius)
 
 ## LLM Security Frameworks
 * [OWASP Top 10 for LLM Applications](https://llmtop10.com/)
@@ -40,6 +41,8 @@ Reference notes for Attacking and Defending Generative AI presentation
 * [Jailbreaks for all Flagship AI Models](https://github.com/elder-plinius/L1B3RT45/)
 * [Skeleton Key Jailbreak](https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/)
 * [Offensive AI Compilation - GitHub](https://github.com/jiep/offensive-ai-compilation)
+* [Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition
+EMNLP 2023](https://paper.hackaprompt.com/)
 
 
 ## LLM Attacks in the Wild

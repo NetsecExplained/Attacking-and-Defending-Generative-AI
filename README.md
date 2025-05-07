@@ -17,6 +17,7 @@ Reference notes for Attacking and Defending Generative AI presentation
 * [MITRE - ATLAS](https://atlas.mitre.org/)
 * [NIST - Adversarial Machine Learning](https://csrc.nist.gov/pubs/ai/100/2/e2023/final)
   * [NIST AI - TL;DR by Rez0](https://twitter.com/rez0__/status/1743266573668757568?s=20)
+* [Offensive ML Playbook[https://wiki.offsecml.com/]
 
 ## LLM Security Tools
 * [Dropbox - LLM security](https://github.com/dropbox/llm-security)
